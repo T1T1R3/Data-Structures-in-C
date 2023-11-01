@@ -1,2 +1,4 @@
-# Algorithms-and-Programming
-02/2022
+# Linked Lists
+
+-Simply linked list  
+-Double circular linked list  
